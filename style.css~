@@ -1,0 +1,21 @@
+#header{
+         width:960px;
+         height:140px;
+         margin-left:auto;
+         margin-right:auto;
+         background-color:#f0f03e;
+         margin-top:20px;
+         border-radius:20px;
+       } 
+
+#container{
+         width:960px;
+         height:1000px;
+         margin-left:auto;
+         margin-right:auto;
+         background-color:#f0f03e;
+         margin-top:20px;
+          }
+         
+
+       
